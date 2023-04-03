@@ -1,0 +1,10 @@
+G:\PRG\C#\XP_2\XP_2\bin\Debug\XP_2.exe.config
+G:\PRG\C#\XP_2\XP_2\bin\Debug\XP_2.exe
+G:\PRG\C#\XP_2\XP_2\bin\Debug\XP_2.pdb
+G:\PRG\C#\XP_2\XP_2\obj\Debug\XP_2.csprojAssemblyReference.cache
+G:\PRG\C#\XP_2\XP_2\obj\Debug\XP_2.Form1.resources
+G:\PRG\C#\XP_2\XP_2\obj\Debug\XP_2.Properties.Resources.resources
+G:\PRG\C#\XP_2\XP_2\obj\Debug\XP_2.csproj.GenerateResource.cache
+G:\PRG\C#\XP_2\XP_2\obj\Debug\XP_2.csproj.CoreCompileInputs.cache
+G:\PRG\C#\XP_2\XP_2\obj\Debug\XP_2.exe
+G:\PRG\C#\XP_2\XP_2\obj\Debug\XP_2.pdb
